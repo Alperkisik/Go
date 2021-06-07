@@ -1,0 +1,40 @@
+﻿<Window x:Class="Go.Ayar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ayar" Height="324" Width="245" ResizeMode="CanMinimize" Loaded="Window_Loaded">
+    <Grid Background="Gainsboro">
+        <StackPanel> 
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Siyah Oyuncu" Margin="10,0,0,0" Foreground="Maroon" FontWeight="Bold"></Label>
+                <TextBox Name="txt_SiyahOyuncu" Width="100" Margin="7,0,0,0"></TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Label Content="Beyaz Oyuncu" Margin="10,0,0,0" Foreground="Maroon" FontWeight="Bold"></Label>
+                <TextBox Name="txt_BeyazOyuncu" Width="100" Margin="5,0,0,0"></TextBox>
+            </StackPanel>
+            
+            <StackPanel >
+                <StackPanel>
+                    <Label Content="Hamle Süresi (1 dk)" FontWeight="Bold" Foreground="Maroon" Margin="10,5,0,0"></Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Name="rb_süreli" Content="Süreli Oyun" FontWeight="Bold" Foreground="Maroon"  Margin="10,5,0,5"></RadioButton>
+                    <RadioButton Name="rb_süresiz" Content="Süresiz Oyun" FontWeight="Bold" Foreground="Maroon"  Margin="10,5,0,5"></RadioButton>
+                </StackPanel>
+                <StackPanel>
+                    <Label Content="Oyun Tahtası Seçiniz:" Margin="10,5,0,0" Foreground="Maroon" FontWeight="Bold"></Label>
+                </StackPanel>
+                <StackPanel>
+                    <RadioButton Name="rb_9x9" Content="Acemi (9 x 9 Oyun Tahtası)" Foreground="Maroon" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,5,0,5"></RadioButton>
+                    <RadioButton Name="rb_13x13" Content="Orta (13 x 13 Oyun Tahtası)" Foreground="Maroon" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,5,0,5"></RadioButton>
+                    <RadioButton Name="rb_19x19" Content="Usta (19 x 19 Oyun Tahtası)" Foreground="Maroon" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,5,0,5"></RadioButton>
+                </StackPanel>
+            </StackPanel>
+            
+            <StackPanel>
+                <Button Name="btn_OyunaBaşla" Background="Transparent" Foreground="Maroon" FontWeight="Bold" Margin="5,8,15,5" HorizontalAlignment="Right" Content="Oyuna Başla" Height="29" Width="110" Click="btn_OyunaBaşla_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

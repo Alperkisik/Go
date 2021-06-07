@@ -1,0 +1,11 @@
+﻿<Window x:Class="Go.Skorlar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skorlar" Height="300" Width="300" Background="Gainsboro" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel>
+            <Label Content="Yüksek Skorlar" Foreground="Maroon" FontSize="16" FontFamily="Segoe Print" FontWeight="Bold" Margin="15,0,0,0"></Label>
+            <ListBox Name="lb_skorlar" Margin="5" Height="208" VerticalAlignment="Top" ></ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

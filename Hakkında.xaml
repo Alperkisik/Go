@@ -1,0 +1,11 @@
+﻿<Window x:Class="Go.Hakkında"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hakkında" Height="340" Width="312" ResizeMode="CanMinimize">
+    <Grid>
+        <StackPanel Background="Gainsboro"> 
+            <Label Content="GO Game" FontFamily="Segoe Print" Foreground="Maroon" FontSize="20" HorizontalContentAlignment="Center"></Label>
+            <TextBlock Margin="20,5,10,10" Text="Go Oyunu tahta üzerinde oynanan iki kişilik bir strateji oyunudur. Go çok eski bir oyundur. Çin kökenli olmasıyla birlikte bütün Doğu Asya'da tanınır ve oynanır. Oyunda siyah ve beyaz renklerdeki küçük ve yuvarlak taşlar kullanılır. Oyuna siyah başlar. Sırası gelen oyuncunun kendi taşını oyun tahtasındaki mümkün olan bir yere yerleştirmesiyle oyun devam eder. Tahtaya konulan taşlar esir alınmadığı müddetçe oyun sonuna kadar hareket etmezler. Tüm taşlar aynı değere sahiptir ancak birbirleri arasındaki stratejik konum oyunun yapısını belirler. Oyun sonunda en çok alana sahip olan oyuncu oyunu kazanmış olur. " TextWrapping="Wrap"></TextBlock>
+        </StackPanel> 
+    </Grid>
+</Window>

@@ -1,0 +1,235 @@
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\MainWindow.baml
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\MainWindow.g.cs
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\App.g.cs
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.g.resources
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\bin\Debug\Go.exe
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\bin\Debug\Go.pdb
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.exe
+c:\users\l12\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\L12\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\L12\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\L12\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\ayar.baml
+C:\Users\L12\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\ayar.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\L12\Desktop\Go\Go\bin\Debug\Go.exe
+C:\Users\L12\Desktop\Go\Go\bin\Debug\Go.pdb
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\ayar.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\ayar.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alper\Desktop\t\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alper\Desktop\t\Go\Go\bin\Debug\Go.exe
+C:\Users\alper\Desktop\t\Go\Go\bin\Debug\Go.pdb
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\alper\Desktop\Go\Go\bin\Debug\Go.exe
+C:\Users\alper\Desktop\Go\Go\bin\Debug\Go.pdb
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\bin\Debug\Go.exe
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\bin\Debug\Go.pdb
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L12\Desktop\Yeni klasör\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L12\Desktop\asıl go\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L12\Desktop\asıl go\Go\Go\bin\Debug\Go.exe
+C:\Users\L12\Desktop\asıl go\Go\Go\bin\Debug\Go.pdb
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\a\Desktop\Go\Go\bin\Debug\Go.exe
+C:\Users\a\Desktop\Go\Go\bin\Debug\Go.pdb
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Replay.baml
+C:\Users\a\Desktop\Go\Go\obj\x86\Debug\Replay.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Replay.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Replay.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\KayıtlıOyunlar.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\KayıtlıOyunlar.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\L12\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\L12\Go\Go\bin\Debug\Go.exe
+C:\Users\L12\Go\Go\bin\Debug\Go.pdb
+C:\Users\L12\Go\Go\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\L12\Go\Go\obj\x86\Debug\Ayar.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\Hakkında.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\KayıtlıOyunlar.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\MainWindow.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\NasılOynanır.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\Oyun.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\Replay.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+C:\Users\L12\Go\Go\obj\x86\Debug\Ayar.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Hakkında.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\KayıtlıOyunlar.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\MainWindow.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Oyun.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Replay.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\App.g.cs
+C:\Users\L12\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+C:\Users\L12\Go\Go\obj\x86\Debug\Go.g.resources
+C:\Users\L12\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\L12\Go\Go\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\L12\Go\Go\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L12\Desktop\Go\Go\bin\Debug\Go.sdf
+C:\Users\L12\Desktop\Go\Go\bin\Debug\Go.exe.config
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Go_Content.g.cs
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Skorlar.baml
+C:\Users\L12\Desktop\Go\Go\obj\x86\Debug\Skorlar.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\KayıtlıOyunlar.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Replay.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Skorlar.baml
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\KayıtlıOyunlar.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Replay.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Skorlar.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go_Content.g.cs
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\Go\Go\obj\x86\Debug\Go.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.csprojAssemblyReference.cache
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Ayar.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Hakkında.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\KayıtlıOyunlar.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\MainWindow.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\NasılOynanır.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Oyun.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Replay.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Skorlar.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Çoklu_Oyna.baml
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Ayar.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Hakkında.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\KayıtlıOyunlar.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\MainWindow.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\NasılOynanır.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Oyun.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Replay.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Skorlar.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Çoklu_Oyna.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\App.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go_Content.g.cs
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go_MarkupCompile.cache
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.g.resources
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.csproj.GenerateResource.cache
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.exe
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.pdb
+D:\Dosyalarım\Projeler\Go\Go\bin\Debug\Go.sdf
+D:\Dosyalarım\Projeler\Go\Go\bin\Debug\Go.exe.config
+D:\Dosyalarım\Projeler\Go\Go\bin\Debug\Go.exe
+D:\Dosyalarım\Projeler\Go\Go\bin\Debug\Go.pdb
+D:\Dosyalarım\Projeler\Go\Go\bin\Debug\System.Data.SqlServerCe.dll
+D:\Dosyalarım\Projeler\Go\Go\obj\x86\Debug\Go.csproj.CopyComplete

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Go.KayıtlıOyunlar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kayıtlı Oyunlar" Height="353" Width="413" Loaded="Window_Loaded">
+    <Grid Background="Gainsboro">
+        <StackPanel>
+             <Label Content="Kayıtlı Oyunlar" Foreground="Maroon" FontSize="16" FontFamily="Segoe Print" FontWeight="Bold" Margin="15,0,0,0"></Label>
+             <ListBox Name="lb_kayıtlar" Margin="5" Height="208" VerticalAlignment="Top" SelectionChanged="lb_kayıtlar_SelectionChanged"></ListBox>
+            <Button Content="Replay" Height="23" Name="btn_replay" Width="75" Click="btn_replay_Click" Foreground="Maroon"/>
+            <Button Content="Sil" Height="23" Name="btn_Sil" Width="75" Click="btn_Sil_Click" Foreground="Maroon"/>
+        </StackPanel>
+    </Grid>
+</Window>

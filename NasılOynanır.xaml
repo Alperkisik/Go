@@ -1,0 +1,16 @@
+﻿<Window x:Class="Go.NasılOynanır"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nasıl Oynanır?" Height="335" Width="492" ResizeMode="CanMinimize">
+    <Grid>
+        <StackPanel Background="Gainsboro">
+            <Label Content="Nasıl Oynanır?" FontFamily="Segoe Print" Foreground="Maroon" FontSize="20" HorizontalContentAlignment="Center">
+                <Label.Background>
+                    <SolidColorBrush />
+                </Label.Background>
+            </Label>
+            <TextBlock Margin="20,5,10,10" Text="  Oyunun temel amacı şöyle bir benzetmeyle açıklanabilir: İki general bir bölgeyi kontrol altına almak istemektedir. Bunun için ilk önce gözetleme kuleleri dikerler ve sonra da kendileri için güvenli bir pozisyon kurmaya çalışırlar. Oyunun amacı rakibi tamamen ortadan kaldırmaktan veya taşlarını esir almaktan çok onun karşısında avantajlı bir konuma geçmek, kendi taşlarınızla mümkün olabildiğince çok alanı kontrol altında tutmaktır.
+Go, kuralları çok basit olmakla birlikte oldukça karmaşık bir oyundur. Go oyununda satrançtaki gibi taşların hareket kabiliyetleri sınırlı olmadığından bir taşı oynayabileceğiniz çok fazla yer vardır. Satranç oyununda ilk yarım hamle için 20 olasılık , ikinci yarım hamle için 20, tam hamle (bir beyaz bir siyah) için 400 olasılık vardır. Go oyununda ise ilk taş (siyah) için 361 olasılık , ikinci taş (beyaz) için 360 olasılık, toplam 129.960 olasılık vardır. Hamle çeşitliliği o kadar çoktur ki bir go oyuncunun ustalaşma evresi ömrünün sonuna kadar sürebilir." TextWrapping="Wrap"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
